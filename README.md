@@ -1,39 +1,27 @@
-﻿# Desafio: Matriz 3x3
+﻿# Desafio: Matriz 3X3
 
-Desafio de lÃ³gica em Python para manipulaÃ§Ã£o e operaÃ§Ãµes com matrizes.
+Desafio de lÃ³gica em Python desenvolvido durante meus estudos em AnÃ¡lise e Desenvolvimento de Sistemas (ADS).
 
 ## ðŸŽ¯ DescriÃ§Ã£o
 
-ExercÃ­cio que trabalha com estruturas bidimensionais (matrizes), implementando operaÃ§Ãµes como transposiÃ§Ã£o, busca de elementos e cÃ¡lculos.
+ExercÃ­cio prÃ¡tico que implementa algoritmos para manipulaÃ§Ã£o de dados e estruturas em Python.
 
 ## ðŸ› ï¸ Tecnologias Utilizadas
 
 - **Python 3** - Linguagem de programaÃ§Ã£o
 
-## ðŸš€ ExecuÃ§Ã£o
+## ðŸš€ Como Executar
 
 `ash
-# Executar o desafio
-python desafio_matriz_3x3.py
+python desafio-matriz-3x3.py
 `
 
-## ðŸ“‹ OperaÃ§Ãµes com Matriz
+## ðŸ“‹ Funcionalidades
 
-- CriaÃ§Ã£o e inicializaÃ§Ã£o de matrizes
-- NavegaÃ§Ã£o por linhas e colunas
-- Busca de elementos
-- CÃ¡lculos de soma, mÃ©dia
-- TransposiÃ§Ã£o
-
-## ðŸ’¡ Exemplo
-
-`python
-matriz = [
-    [1, 2, 3],
-    [4, 5, 6],
-    [7, 8, 9]
-]
-soma_diagonal = somar_diagonal(matriz)
-`
+- ImplementaÃ§Ã£o do algoritmo solicitado
+- Entrada e processamento de dados
+- SaÃ­da formatada dos resultados
 
 ---
+
+*Desenvolvido por EmÃ­lia - Estudante de ADS*
